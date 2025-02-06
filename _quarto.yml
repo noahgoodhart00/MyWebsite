@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "noahgoodhart00.github.io Lab2"
@@ -16,4 +17,7 @@ format:
     toc: true
 
 editor: visual
+
+
+
 
