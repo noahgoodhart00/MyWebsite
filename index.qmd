@@ -1,5 +1,18 @@
 ---
 title: "Noah Goodhart"
+image: recents/intro_pic 
+toc: false
+about:
+  template: jolla
+  image-shape: round
+  image-width: 17em
+  links: 
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/noahwgoodhart/ 
+    - text: GitHub
+      href: https://github.com/noahgoodhart00
+    - text: Emails
+      href: goodhartnoah@gmail.com, noahwg@rams.colostate.edu
 ---
 
 Hello there. My name is Noah Goodhart. I am currently a senior in the Ecosystem Science and Sustainability major at Colorado State University. I am a Colorado native, and in my free time I love to ski and fly kites.
