@@ -1,6 +1,6 @@
 ---
 title: "Noah Goodhart"
-image: recents/intro_pic 
+image: intro_pic.jpg
 toc: false
 about:
   template: jolla
