@@ -7,5 +7,5 @@ Hello there. My name is Noah Goodhart. I am currently a senior in the Ecosystem 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
 ```{r}
-1 + 1
+print("sup playa")
 ```
