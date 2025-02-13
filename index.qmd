@@ -3,7 +3,7 @@ title: "Noah Goodhart"
 image: intro_pic.jpg
 toc: false
 about:
-  template: jolla
+  template: trestles
   image-shape: round
   image-width: 17em
   links: 
