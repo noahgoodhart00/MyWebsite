@@ -4,7 +4,7 @@ image: intro_pic.jpg
 toc: false
 about:
   template: trestles
-  image-shape: rectangle
+  image-shape: round
   image-width: 17em
   links: 
     - text: LinkedIn
