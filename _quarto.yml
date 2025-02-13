@@ -10,7 +10,9 @@ website:
         text: Home
       - href: CSU_proj.qmd
         text: CSU Projects
-      - href: Résumé
+      - href: resume.qmd
+        text: Résumé
+      
 
 format:
   html:
