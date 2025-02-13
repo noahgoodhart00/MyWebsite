@@ -1,5 +1,10 @@
 ---
 title: "CSU Projects"
+about:
+  links: 
+    - text: My Quarto Website
+      href: https://noahgoodhart00.github.io/noahgoodhart00.github.io-Lab1/
+      
 ---
 
 In the Spring of 2025 I took a class Quantative Reasoning class based **in** R. I wrote some code, and did some cool data science. Here is a collection of links!
