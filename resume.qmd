@@ -1,5 +1,9 @@
 ---
-title: "My résumé"
+title: "My resume"
+format: html
 ---
 
-yo
+Here is my resume!
+
+<embed src="Resume2025.pdf" type="application/pdf"
+width="100%" height="600px">

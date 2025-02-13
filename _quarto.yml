@@ -11,7 +11,7 @@ website:
       - href: CSU_proj.qmd
         text: CSU Projects
       - href: resume.qmd
-        text: Résumé
+        text: Resume
       
 
 format:
