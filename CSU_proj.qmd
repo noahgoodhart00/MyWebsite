@@ -3,5 +3,6 @@ title: "CSU Projects"
 format: html
 ---
 
+In the Spring of 2025 I took a class Quantative Reasoning class based in R. I wrote some code, and did some cool data science. Here is a collection of links!
 
 <a href="https://noahgoodhart00.github.io/noahgoodhart00.github.io-Lab1/" class="btn btn-primary">Visit My Quarto Website</a>
