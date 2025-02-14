@@ -5,6 +5,9 @@ format: html
 
 In the Spring of 2025 I took a class Quantative Reasoning class based in R. I wrote some code, and did some cool data science. Here is a collection of links!
 
+
+
+
 <a href="https://noahgoodhart00.github.io/noahgoodhart00.github.io-Lab1/" class="btn btn-primary">Visit My Quarto Website</a>
 
 In this project, I learned the basics of building a Quarto website. Tasks I learned included committing and pushing edits, navigating GitHub, creating new .qmd files to add to my website, creating links, uploading pdfs, correcting my YAML formatting, and editting my .yml file to change the cosmetics of my website.
