@@ -11,3 +11,47 @@ In the Spring of 2025 I took a class Quantative Reasoning class based in R. I wr
 <a href="https://noahgoodhart00.github.io/MyWebsite/" class="btn btn-primary">Visit My Quarto Website</a>
 
 In this project, I learned the basics of building a Quarto website. Tasks I learned included committing and pushing edits, navigating GitHub, creating new .qmd files to add to my website, creating links, uploading pdfs, correcting my YAML formatting, and editting my .yml file to change the cosmetics of my website.
+
+<a href="https://noahgoodhart00.github.io/csu-ess-lab2/" class="btn btn-primary">Visit My Quarto Website</a>
+
+In this lab, I utilized the dplyr package in R to analyze a comprehensive dataset of tree growth from Minnesota, spanning 1897 to 2007. The dataset included annual radial growth increments for over 2,000 trees across various species and stands. Through this project, I applied data manipulation techniques such as filtering, slicing, arranging, and summarizing to explore patterns in tree growth. I also calculated derived metrics like diameter at breast height (DBH) and basal area, and classified trees based on DBH categories. This hands-on experience enhanced my proficiency in data wrangling and provided insights into how climate factors influence forest dynamics over time.
+
+```{r}
+#| label: tree
+#| fig-cap: "The Fastest Growing Tree Species in the Data set: Pinus resinosa"
+#| fig-align: center
+#| fig-width: 6
+#| fig-height: 4
+knitr::include_graphics(here::here("Pinus_resinosa_copy.jpg")) 
+
+```
+
+<a href="https://noahgoodhart00.github.io/csu-ess-lab3/" class="btn btn-primary">Visit My Quarto Website</a>
+
+In Lab 3 of ESS 330, I engaged in data wrangling and visualization using real-world COVID-19 data from the New York Times. I filtered the dataset to focus on Colorado counties, calculated daily new cases and deaths, and identified counties with the highest cumulative and new case counts as of February 1, 2022. By integrating population data, I normalized case numbers to assess per capita impacts across counties. This exercise enhanced my proficiency in data manipulation with R and deepened my understanding of how to interpret and communicate public health data effectively.
+
+```{r}
+#| label: ggplot
+#| fig-align: center
+#| fig-width: 6
+#| fig-height: 4
+knitr::include_graphics(here::here("lab3pic.png")) 
+
+```
+
+<a href="https://noahgoodhart00.github.io/ESS330-Lab-4/" class="btn btn-primary">Visit My Quarto Website</a>
+
+In Lab 4 of ESS 330, I engaged in statistical analysis using R to examine ecological data from the Long-Term Ecological Research (LTER) Network, focusing on vertebrate species in Oregon's Mack Creek. I applied univariate and bivariate statistical tests, including chi-square tests for categorical variables, t-tests for comparing means, and correlation analyses to explore relationships between variables. Additionally, I conducted multivariate analyses such as ANOVA and multiple linear regression to assess the influence of forest treatment types (clear-cut vs. old-growth) on species characteristics like length and weight. This lab enhanced my proficiency in R and deepened my understanding of applying statistical methods to real-world ecological data.
+
+```{r}
+#| label: boxplot
+#| fig-cap: "A boxplot showing the carapace width for each site where sites are ordered by latitude."
+#| fig-align: center
+#| fig-width: 6
+#| fig-height: 4
+knitr::include_graphics(here::here("lab4pic.png")) 
+
+```
+
+
+
