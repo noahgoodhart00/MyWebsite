@@ -62,7 +62,7 @@ For this lab, we were required to create 2 project proposals each, that we would
 In Lab 6 of ESS 330, I explored predictive modeling in hydrology using the tidymodels framework in R and the CAMELS (Catchment Attributes and Meteorology for Large-sample Studies) dataset. This lab involved building machine learning models to predict mean streamflow for various U.S. river basins based on their physical and climatic characteristics. Through this process, I gained hands-on experience in data preprocessing, model training, evaluation, and validation, enhancing my understanding of applying machine learning techniques to real-world environmental data.
 
 ```{r}
-#| label: data1
+#| label: data10
 #| fig-align: center
 #| fig-width: 6
 #| fig-height: 4
@@ -73,6 +73,15 @@ knitr::include_graphics(here::here("lab6pic.png"))
 <a href="https://leilaaburomia.github.io/Final-Project/" class="btn btn-primary">Lab 7</a>
 
 In this lab, we decided on a topic for our final project. We decided to test ENSO-Drought Linkages in Colorado. We wanted to see if ENSO types, (El Niño and La Niña) were an accurate way to predict droughts in Colorado. We took precipitation data from all of Colorado, and also drought data from all of Colorado. We then averaged these data points into one month, and then created 3-month rolling averages to match up with the ENSO severity data. 
+
+```{r}
+#| label: data11
+#| fig-align: center
+#| fig-width: 6
+#| fig-height: 4
+knitr::include_graphics(here::here("lab7pic.png")) 
+
+```
 
 <a href="https://noahgoodhart00.github.io/csu-ess-lab8/" class="btn btn-primary">Lab 8</a>
 
@@ -131,6 +140,5 @@ knitr::include_graphics(here::here("lab11pic1.png"))
 #| fig-width: 6
 #| fig-height: 4
 knitr::include_graphics(here::here("lab11pic2.png")) 
-
 ```
 
