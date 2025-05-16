@@ -57,6 +57,15 @@ knitr::include_graphics(here::here("lab4pic.png"))
 
 For this lab, we were required to create 2 project proposals each, that we would later refine and eventually choose one to work on for our final project. For each proposal, we had to include a title, justification explaining the significance of the project with supporting background information, with the specific objective that we would aim to achieve in this study and a testable hypothesis, model or analysis we would want to carry out. We also had to include our proposed methods where we briefly described how we planed to carry out our study, and our expected outcomes.
 
+```{r}
+#| label: data12
+#| fig-align: center
+#| fig-width: 6
+#| fig-height: 4
+knitr::include_graphics(here::here("lab5pic.png")) 
+
+```
+
 <a href="https://noahgoodhart00.github.io/csu-ess-lab6/" class="btn btn-primary">Lab 6</a>
 
 In Lab 6 of ESS 330, I explored predictive modeling in hydrology using the tidymodels framework in R and the CAMELS (Catchment Attributes and Meteorology for Large-sample Studies) dataset. This lab involved building machine learning models to predict mean streamflow for various U.S. river basins based on their physical and climatic characteristics. Through this process, I gained hands-on experience in data preprocessing, model training, evaluation, and validation, enhancing my understanding of applying machine learning techniques to real-world environmental data.
@@ -99,6 +108,7 @@ In Lab 9 of ESS 330, I collaborated with my peers to investigate the relationshi
 knitr::include_graphics(here::here("lab9pic1.png")) 
 
 ```
+
 ```{r}
 #| label: data2
 #| fig-align: center
